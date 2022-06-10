@@ -1,6 +1,14 @@
-/.ipynb_checkpoints
-/AI Basic 참가자 OT 자료(배포용).pdf
-/AI Basic 참가자 리드부스터OT 자료(배포용).pdf
-/전국+유동인구+현황.xls
-/전국유동인구현황.csv
-/test-score.csv
+.ipynb_checkpoints/
+data/
+log/
+__pycache__
+AI Basic 참가자 OT 자료(배포용).pdf
+AI Basic 참가자 리드부스터OT 자료(배포용).pdf
+전국+유동인구+현황.xls
+전국유동인구현황.csv
+test-score.csv
+hello.py
+example.txt
+ioconsole.py
+*.pickle
+*.csv
